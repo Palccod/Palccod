@@ -3,7 +3,7 @@
 ## Hi, I'm Palccod :wave: 
 
 🎓 Computer science university student <br>
-🌱 Started coding in **2023** — always learning, always improving!<br>
+🌱 Always learning, always improving!<br>
 🎮 **Gamer | Anime Fan**<br>
 
 
