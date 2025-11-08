@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" />
+  <a href="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge">#<a/>
   <img src="https://img.shields.io/badge/University%20Student-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gamer-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anime%20Fan-%23FFD700?style=for-the-badge" />
