@@ -32,7 +32,7 @@
 
 <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=palccod&theme=nightowl&hide_border=false)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=palccod&theme=nightowl&hide_border=false)<br/> -->
 
 
 
