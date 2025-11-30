@@ -8,7 +8,7 @@ I'm Paul (Palccod), a student, software developer, Python developer and creative
 Always learning, always improving! Apart from that, gaming, music and anime.<br>
 **I use Arch btw :)**<br>
 
-**Contact me:**<br>
+**Contact me:**<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palccod) <br>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/palccod)
@@ -18,8 +18,7 @@ Always learning, always improving! Apart from that, gaming, music and anime.<br>
 <br>
 <br>
 
-
-
+![](https://komarev.com/ghpvc/?username=palccod)<br>
 # 💻 Tech Stack:
 <a href="#">![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)<a/>
 <a href="#">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<a/>
@@ -33,17 +32,10 @@ Always learning, always improving! Apart from that, gaming, music and anime.<br>
 
 
 
-[![](https://visitcount.itsvg.in/api?id=palccod&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge"/><a/>
   <a href="#"><img src="https://img.shields.io/badge/University%20Student-purple?style=for-the-badge"/><a/>
   <a href="#"><img src="https://img.shields.io/badge/Gamer-red?style=for-the-badge" /><a/>
   <a href="#"><img src="https://img.shields.io/badge/Anime%20Fan-%23FFD700?style=for-the-badge" /><a/>
 </p>
+
