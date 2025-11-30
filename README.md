@@ -1,12 +1,10 @@
 <!-- Welcome to Palccod's GitHub Profile! -->
 
-## Hi, there! ![anime-wave](https://github.com/user-attachments/assets/fcfea984-5226-4a91-b1b7-7bc72d6da9f4)
+## Hi, there! <img src="https://github.com/user-attachments/assets/7b5acce0-fa3c-4149-83c9-e674b6819a9b" width="35"/>
 
 
 
-
-
-<img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
+<img align='right' src='https://github.com/user-attachments/assets/21cee80f-c03e-454a-a177-b66b0e79d7f6' width='310' height='310'>
 
 I'm Paul (Palccod), a student, software developer, Python developer and creative programmer.<br>
 Always learning, always improving! Apart from that, gaming, music and anime.<br>
