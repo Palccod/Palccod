@@ -1,6 +1,10 @@
 <!-- Welcome to Palccod's GitHub Profile! -->
 
-## Hi, there!
+## Hi, there! ![anime-wave](https://github.com/user-attachments/assets/fcfea984-5226-4a91-b1b7-7bc72d6da9f4)
+
+
+
+
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
 
