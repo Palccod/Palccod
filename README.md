@@ -1,18 +1,22 @@
 <!-- Welcome to Palccod's GitHub Profile! -->
 
-## Hi, I'm Palccod :wave: 
+## Hi, there!
 
-🎓 Computer science university student <br>
-🌱 Always learning, always improving!<br>
-🎮 **Gamer | Anime Fan**<br>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
+
+I'm Paul (Palccod), student, software developer, Python developer and creative programmer.<br>
+Always learning, always improving! Apart from that, gaming, music and anime.<br>
+**I use Arch btw :)**<br>
+
+**Contact me:**<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palccod) <br>
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/palccod)
 
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palccod) 
-
-
+<br>
+<br>
 
 
 
@@ -25,22 +29,6 @@
 <a href="#">![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)<a/>
 <a href="#">![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)<a/>
 <a href="#">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<a/>
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=palccod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=palccod&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-<br>
-
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=palccod&theme=nightowl&hide_border=false)<br/> -->
-
 
 
 
