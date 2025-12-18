@@ -6,9 +6,9 @@
 
 <img align='right' src='https://github.com/user-attachments/assets/21cee80f-c03e-454a-a177-b66b0e79d7f6' width='310' height='310'>
 
-I'm Paul (Palccod), a student, software developer, Python developer and creative programmer.<br>
+I'm Paul (Palccod), a student, an aspiring software developer and creative programmer.<br>
 Always learning, always improving! Apart from that, gaming, music and anime.<br>
-**I use Arch btw :)**<br>
+<br>
 
 **Contact me:**<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palccod) <br>
