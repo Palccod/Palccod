@@ -15,6 +15,8 @@ Always learning, always improving! Apart from that, gaming, music and anime.<br>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/palccod)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:1177737446599950367)](https://discord.com/users/:1177737446599950367)
+
 
 
 <br>
