@@ -16,7 +16,7 @@ Always learning, always improving! Apart from that, gaming, music and anime.<br>
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/palccod) 
 <br>
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1177737446599950367?animatedDecoration=true&showDisplayName=true&idleMessage=Out%20admiring%20nature%20%2F%20Some%20me%20time&waveColor=010103&imgStyle=square&theme=dark&showBanner=animated)](https://discord.com/users/1177737446599950367)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1177737446599950367?waveSpotifyColor=101013&theme=dark&showBanner=animated&imgStyle=square&idleMessage=Out%20admiring%20nature.%20%2F%20Some%20me%20time!&waveColor=101013&animatedDecoration=true&showDisplayName=true)](https://discord.com/users/1177737446599950367)
 
 <br>
 
