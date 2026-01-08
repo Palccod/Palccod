@@ -6,7 +6,7 @@
 
 <img align='right' src='https://github.com/user-attachments/assets/21cee80f-c03e-454a-a177-b66b0e79d7f6' width='310' height='310'>
 
-I'm Paul (Palccod), a university student, an aspiring software developer.<br>
+I'm Paul (Palccod), a university student, an aspiring software developer.<br><br>
 Always learning, always improving! Apart from that, gaming, music and anime.<br>
 <br>
 
