@@ -6,13 +6,12 @@
 
 <img align='right' src='https://github.com/user-attachments/assets/21cee80f-c03e-454a-a177-b66b0e79d7f6' width='310' height='310'>
 
-I'm Paul (Palccod), a student, an aspiring software developer and creative programmer.<br>
+I'm Paul (Palccod), a university student, an aspiring software developer.<br>
 Always learning, always improving! Apart from that, gaming, music and anime.<br>
 <br>
 
 **Contact me:**<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palccod)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palccod)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1177737446599950367)
 <br>
 
