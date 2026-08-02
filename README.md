@@ -1,6 +1,6 @@
 <!-- Welcome to Palccod's GitHub Profile! -->
 
-## Hi, there! <img src="https://github.com/user-attachments/assets/7b5acce0-fa3c-4149-83c9-e674b6819a9b" width="35"/>
+## Hi there! <img src="https://github.com/user-attachments/assets/7b5acce0-fa3c-4149-83c9-e674b6819a9b" width="35"/>
 
 
 
