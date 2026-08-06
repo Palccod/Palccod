@@ -1,10 +1,12 @@
 <!-- Welcome to Palccod's GitHub Profile! -->
+<div align="center">
+<img width="1692" height="430" alt="banner" src="https://github.com/user-attachments/assets/a7ef3f62-6438-440f-bac1-955388bbf2af"/>
+</div>
 
 ## Hi there! <img src="https://github.com/user-attachments/assets/7b5acce0-fa3c-4149-83c9-e674b6819a9b" width="35"/>
 
 
 
-<img align='right' src='https://github.com/user-attachments/assets/21cee80f-c03e-454a-a177-b66b0e79d7f6' width='310' height='310'>
 
 I'm Paul (Palccod), a university student, an aspiring software developer.<br><br>
 Always learning, always improving! Apart from that, gaming, music and anime.<br>
