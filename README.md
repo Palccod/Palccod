@@ -1,6 +1,6 @@
 <!-- Welcome to Palccod's GitHub Profile! -->
 <div align="center">
-<img width="1692" height="430" alt="banner" src="https://github.com/user-attachments/assets/a7ef3f62-6438-440f-bac1-955388bbf2af"/>
+<img width="1692" height="630" alt="banner" src="https://github.com/user-attachments/assets/a7ef3f62-6438-440f-bac1-955388bbf2af"/>
 </div>
 
 ## Hi there! <img src="https://github.com/user-attachments/assets/7b5acce0-fa3c-4149-83c9-e674b6819a9b" width="35"/>
